@@ -1,0 +1,47 @@
+/* ========== MAIN ==========*/
+*
+{
+    color: black;
+    margin: 0;
+    font-family: Roboto, "Open Sans", "Google Sans", Comfortaa, Arial;
+}
+
+header
+{
+    height: 10%;
+    font-size: 0.9cm;
+    text-align: center;
+    margin-top: 1%;
+}
+
+main
+{
+    height: 80%;
+}
+
+footer
+{
+    text-align: center;
+    font-size: x-large;
+    height: 10%;
+    margin: 0;
+    padding-top: 3%;
+}
+/* ========== ELEMENTS ==========*/
+a
+{
+    color: black;
+    margin: 0 3%;
+}
+a:hover
+{
+    color: #4e4d4d;
+}
+
+hr
+{
+    color: black;
+    width: 90%;
+    height: 0.05%;
+    text-align: center;
+}
