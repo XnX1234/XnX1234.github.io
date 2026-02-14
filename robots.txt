@@ -1,0 +1,11 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Googlebot-Video
+Disallow: /
+
+User-agent: *
+Disallow: /style.css
