@@ -1,6 +1,10 @@
 .lic
 {
-  margin: 10px 15%;
+  margin: 10px 13%;
+  padding: 2%;
   color: black;
   background-color: #d1ddeb;
+  border-color: black;
+  border-radius: 33%;
+  border-style: groove;
 }
