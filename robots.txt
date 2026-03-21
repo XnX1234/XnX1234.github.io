@@ -9,3 +9,4 @@ Disallow: /
 
 User-agent: *
 Disallow: /style.css
+Disallow: /license/license.css
